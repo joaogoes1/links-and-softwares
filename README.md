@@ -2,7 +2,7 @@
 Links and softwares to install in my computer.
 
 ## Mac
-  - iTerm2
+  - iTerm2: https://www.iterm2.com/
   
 ## Terminal
   - Oh My Zsh: https://github.com/robbyrussell/oh-my-zsh
