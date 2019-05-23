@@ -7,6 +7,6 @@ Links and softwares to install in my computer.
 ## Terminal
   - Oh My Zsh: https://github.com/robbyrussell/oh-my-zsh
 
-  ### Kubernetes
-    - KNS (Kubernetes Namespace Switcher): https://github.com/blendle/kns
-    - Kubectl Aliases:https://github.com/ahmetb/kubectl-aliases
+### Kubernetes
+  - KNS (Kubernetes Namespace Switcher): https://github.com/blendle/kns
+  - Kubectl Aliases:https://github.com/ahmetb/kubectl-aliases
