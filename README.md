@@ -13,3 +13,5 @@ Links and softwares to install in my computer.
 
 ### Android
   - Improve Gradle Build: https://www.droidcon.com/media-detail?video=352688995
+  - Unit-testing LiveData and other common observability problems: https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04
+  
