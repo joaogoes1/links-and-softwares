@@ -14,4 +14,4 @@ Links and softwares to install in my computer.
 ### Android
   - Improve Gradle Build: https://www.droidcon.com/media-detail?video=352688995
   - Unit-testing LiveData and other common observability problems: https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04
-  
+  - Clean-Architecture on Android: https://proandroiddev.com/how-to-implement-a-clean-architecture-on-android-2e5e8c8e81fe
