@@ -16,4 +16,6 @@ Links and softwares to install in my computer.
   - Unit-testing LiveData and other common observability problems: https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04
   - Clean-Architecture on Android: https://proandroiddev.com/how-to-implement-a-clean-architecture-on-android-2e5e8c8e81fe
   - 30 Best Android Libraries and Projects of 2019: https://medium.com/@mmbialas/30-best-android-libraries-and-projects-of-2019-a1e35124f110
-  
+
+# Interviews
+  - Android Interviews Questions: https://github.com/MindorksOpenSource/android-interview-questions#core-java
